@@ -1,7 +1,13 @@
+//Formulas basicas
+console.log(Math.PI);
+console.log(Math.E);
+console.log(Math.sqrt(10));
+console.log(Math.cbrt(10));
+
 //Numeros randomicos con decimal
-console.log(Math.random());
-console.log(Math.random() * (50 + 1));
-console.log(Math.random() * (100 - 50 + 1)  + 50);
+// console.log(Math.random());
+// console.log(Math.random() * (50 + 1));
+// console.log(Math.random() * (100 - 50 + 1)  + 50);
 
 
 //Redondear el numero si el decimal es mayor a 0
