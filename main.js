@@ -1,7 +1,13 @@
+//Numeros randomicos con decimal
+console.log(Math.random());
+console.log(Math.random() * (50 + 1));
+console.log(Math.random() * (100 - 50 + 1)  + 50);
+
+
 //Redondear el numero si el decimal es mayor a 0
-let num1 = 5.6;
-console.log(Math.ceil(num1));
-console.log(Math.round(num1));
+// let num1 = 5.6;
+// console.log(Math.ceil(num1));
+// console.log(Math.round(num1));
 
 //Validar negativo y positivo en dicimal
 // console.log(Math.floor(-5.4));
